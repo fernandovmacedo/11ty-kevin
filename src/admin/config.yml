@@ -2,6 +2,7 @@ backend:
   name: github
   repo: fernandovmacedo/11ty-kevin
   base_url: "https://11ty-kevin.netlify.app"
+  client_id: "Ov23lid7JtlbFqJgOmPe"
 media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
 collections:
